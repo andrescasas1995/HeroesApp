@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "87c609181d3bb24bfe7a21dfa2c7e1b3",
+    "revision": "bb56a80cd015b3e3e805d3e2e6549be5",
     "url": "/HeroesApp/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/HeroesApp/static/js/2.dc642471.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fef56ef2ef9941ede20f",
-    "url": "/HeroesApp/static/js/main.fc0a4fff.chunk.js"
+    "revision": "4abd5da65a3b4d1f0bfc",
+    "url": "/HeroesApp/static/js/main.016c63f7.chunk.js"
   },
   {
     "revision": "860ec4534e9872461735",
