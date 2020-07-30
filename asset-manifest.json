@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/HeroesApp/static/js/main.379e57b7.chunk.js",
-    "main.js.map": "/HeroesApp/static/js/main.379e57b7.chunk.js.map",
+    "main.js": "/HeroesApp/static/js/main.746297af.chunk.js",
+    "main.js.map": "/HeroesApp/static/js/main.746297af.chunk.js.map",
     "runtime-main.js": "/HeroesApp/static/js/runtime-main.6cc60b0b.js",
     "runtime-main.js.map": "/HeroesApp/static/js/runtime-main.6cc60b0b.js.map",
     "static/js/2.644a0e2c.chunk.js": "/HeroesApp/static/js/2.644a0e2c.chunk.js",
     "static/js/2.644a0e2c.chunk.js.map": "/HeroesApp/static/js/2.644a0e2c.chunk.js.map",
     "index.html": "/HeroesApp/index.html",
-    "precache-manifest.313b7fa1b2e18a60a7c50388807fa2ce.js": "/HeroesApp/precache-manifest.313b7fa1b2e18a60a7c50388807fa2ce.js",
+    "precache-manifest.9724be07e5314f70038210763d8de568.js": "/HeroesApp/precache-manifest.9724be07e5314f70038210763d8de568.js",
     "service-worker.js": "/HeroesApp/service-worker.js",
     "static/js/2.644a0e2c.chunk.js.LICENSE.txt": "/HeroesApp/static/js/2.644a0e2c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6cc60b0b.js",
     "static/js/2.644a0e2c.chunk.js",
-    "static/js/main.379e57b7.chunk.js"
+    "static/js/main.746297af.chunk.js"
   ]
 }
